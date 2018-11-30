@@ -1,0 +1,49 @@
+li{
+    list-style: none;
+    display: inline;
+    padding: 66px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color:white;
+    align-items: center;
+}
+body{
+    margin: 0;
+}
+
+img{
+    width: 20%;
+}
+
+.menu a{
+    
+    color:white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.menu img{
+    width: 5%
+}
+
+.menu a:hover{
+    color:gray;
+}
+
+
+.banner{
+    background-size: cover;
+    background-image: url(sejisdgjosgd1.png);
+    padding: 157px;
+    background-repeat: no-repeat;
+    display: flex;
+
+}
+
+.banner img{
+    width: 100%
+}
